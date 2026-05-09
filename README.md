@@ -1,12 +1,13 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/munnabiswas99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/munnabiswas99/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/munnabiswas999)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/munnabiswas999/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/munnabiswas99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](munnabiswas.com)  
 ### Hi there 👋, my name is Munna Biswas
 #### I am Web Developer
-<img 
-  src="https://i.ibb.co/qFN5bNJn/munna4.png" 
-  alt="I am Web Developer" 
-  width="50%"
-  hight="50%"
-/>
+<p align="center">
+  <img 
+    src="https://i.ibb.co/qFN5bNJn/munna4.png"
+    alt="I am Web Developer"
+    style="width:100%; max-width:700px;"
+  />
+</p>
 
 I'm Munna Biswas, a web developer specializing in creating dynamic, user-friendly websites. With expertise in HTML, CSS, JavaScript, and frameworks like React, I’m passionate about building seamless digital experiences. Let's connect!
 
