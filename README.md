@@ -5,7 +5,7 @@
   <img 
     src="https://i.ibb.co/qFN5bNJn/munna4.png"
     alt="I am Web Developer"
-    style="width:100%; max-width:700px;"
+    style="width:50%; hight:50%; max-width:700px;"
   />
 </p>
 
