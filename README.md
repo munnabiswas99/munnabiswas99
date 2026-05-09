@@ -1,6 +1,6 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/munnabiswas99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/munnabiswas99/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/munnabiswas999)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/munnabiswas999/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/munnabiswas99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](munnabiswas.com)  
 ### Hi there 👋, my name is Munna Biswas
-#### I am Web Developer
+#### I am Full Stack Web Developer
 <p align="center">
   <img 
     src="https://i.ibb.co/qFN5bNJn/munna4.png"
@@ -9,15 +9,15 @@
   />
 </p>
 
-I'm Munna Biswas, a web developer specializing in creating dynamic, user-friendly websites. With expertise in HTML, CSS, JavaScript, and frameworks like React, I’m passionate about building seamless digital experiences. Let's connect!
+I'm Munna Biswas. I build modern, scalable and responsive web applications using the MERN stack (MongoDB, Express, React, Node.js). I enjoy turning ideas into real products with clean UI, efficient APIs, and optimized performance. Let's connect!
 
-Skills: NODE JS / REACT / JS / HTML / CSS/ JAVASCRIPT/ JAVA/ C/ PYTHON
+Skills: NODE JS / REACT / JavaScript / HTML / CSS/ JAVA/ C/ PYTHON
 
 - 🔭 I’m currently working on Web Dvelopment 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Next.js 
 - 👯 I’m looking to collaborate on Web Development Projects 
 - 💬 Ask me about Web Develeopment 
-- 📫 How to reach me: biswas15-5261@diu.edu.bd 
+- 📫 How to reach me: munna.dev345@gmail.com 
 - ⚡ Fun fact: You are so Nice😊 
 
 
