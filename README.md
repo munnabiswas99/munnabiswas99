@@ -26,9 +26,11 @@ Skills: NODE JS / REACT / JavaScript / HTML / CSS/ JAVA/ C/ PYTHON
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=munnabiswas99)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munnabiswas99&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=munnabiswas99&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=munnabiswas99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munnabiswas99&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/munnabiswas99/contributions?format=svg&private=true)  
 
