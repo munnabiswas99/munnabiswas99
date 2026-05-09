@@ -4,7 +4,8 @@
 <img 
   src="https://i.ibb.co/qFN5bNJn/munna4.png" 
   alt="I am Web Developer" 
-  width="50%" 
+  width="50%"
+  hight="50%"
 />
 
 I'm Munna Biswas, a web developer specializing in creating dynamic, user-friendly websites. With expertise in HTML, CSS, JavaScript, and frameworks like React, I’m passionate about building seamless digital experiences. Let's connect!
