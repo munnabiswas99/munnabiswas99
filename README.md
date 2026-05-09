@@ -37,7 +37,6 @@ Skills: NODE JS / REACT / JavaScript / HTML / CSS/ JAVA/ C/ PYTHON
     height="170"
   />
 </p>
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/munnabiswas99/contributions?format=svg&private=true)  
+ 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=munnabiswas99)  
