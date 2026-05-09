@@ -5,7 +5,7 @@
   <img 
     src="https://i.ibb.co/qFN5bNJn/munna4.png"
     alt="I am Web Developer"
-    style="width:100%; max-width:700px;"
+    style="width:50%; height:50%; max-width:700px;"
   />
 </p>
 
@@ -27,9 +27,15 @@ Skills: NODE JS / REACT / JavaScript / HTML / CSS/ JAVA/ C/ PYTHON
 [![trophy](https://github-profile-trophy.vercel.app/?username=munnabiswas99)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=munnabiswas99&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=munnabiswas99&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munnabiswas99&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=munnabiswas99&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/munnabiswas99/contributions?format=svg&private=true)  
